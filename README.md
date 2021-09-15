@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github.com/pranjalhere/pranjalhere/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
+</p>
